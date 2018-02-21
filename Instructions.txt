@@ -1,0 +1,5 @@
+Press Backspace to make it spooky.
+Press space to start moving the creeper.
+Press 8 to turn night and day
+Press 9 to turn on and off light in house
+Press 'c' to play OW! sound effect
